@@ -24,6 +24,9 @@
     <Compile Include="Architecture.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Architecture_Keras.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Classification.py">
       <SubType>Code</SubType>
     </Compile>
