@@ -6,7 +6,7 @@ from keras.optimizers import SGD
 def VGG16(weight_path = None):
     model = Sequential()
     model.add(ZeroPadding2D(padding = (1,1), input_shape = (3,224,224)))
-    model.add(Convolution2D(kernel_size, activation = 'relu'))
+    model.add(Convolution2D(64,3,3, activation = 'relu'))
     model.add(ZeroPadding2D((1,1)))
     model.add(Convolution2D(64,3,3, activation = 'relu'))
     model.add(MaxPooling2D((2,2)))
