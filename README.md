@@ -1,5 +1,5 @@
 # Convolutional-Neural-Network
-Summary of some CNN architecture and their applications
+Summary of some CNN architectures and their applications
 
 * In this post, I will sumarize some main categories about CNN and some CNN-based networks. Particularly, in this post, I will construct and compare the results trained by VGG16, VGG19, ResNet50 networks for Object Regconition problem. 
 
