@@ -108,7 +108,7 @@ Image path is optional. In this post, I choose the photo of a wall clock. This i
 * **Result of VGG19:**
 
 <p align = "center">
-  <img src = "https://user-images.githubusercontent.com/51883796/82574037-bfa48100-9bb0-11ea-911c-22b0759d4fa0.png">
+  <img src = "https://user-images.githubusercontent.com/51883796/82574613-91737100-9bb1-11ea-9910-79c284784214.PNG">
 </p>
 
 <p align = "center">
@@ -125,5 +125,7 @@ Image path is optional. In this post, I choose the photo of a wall clock. This i
   <img src = "https://user-images.githubusercontent.com/51883796/82574345-2164eb00-9bb1-11ea-98bb-288b730ef41e.jpg">
 </p>
 
+* References:
 
+https://cs231n.github.io/convolutional-networks/
   
