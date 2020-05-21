@@ -63,3 +63,28 @@ The image bellow shows the architecture of VGG16:
   <img src = "https://user-images.githubusercontent.com/51883796/82195073-03358b80-9922-11ea-891e-f6d4e0114831.png">
 </p>
 
+VGG19 Architecture
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51883796/82542092-99182300-9b7b-11ea-9601-1f7bc9f999e6.png">
+</p>
+
+b. ResNet (Residual Network)
+
+Residual Network developed by Kaiming He et al. was the winner of ILSVRC 2015. It features special skip connections and a heavy use of batch normalization. The architecture is also missing fully connected layers at the end of the network.
+
+The image bellow shows a residual block
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51883796/82542754-b8fc1680-9b7c-11ea-9479-823d301114ba.png">
+</p>
+
+ResNet Architecture
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51883796/82543181-59523b00-9b7d-11ea-84e3-2cf5abad3602.png">
+</p>
+
+* **4. Object Regconition problem using CNN**
+
+* Result
