@@ -88,3 +88,42 @@ ResNet Architecture
 * **4. Object Regconition problem using CNN**
 
 * Result
+
+Image path is optional. In this post, I choose the photo of a wall clock. This is the original photo:
+
+<p align = "center">
+  < img src = "https://user-images.githubusercontent.com/51883796/82572696-eeb9f300-9bae-11ea-8140-bb2e4953ff16.jpg">
+</p>
+
+* **Result of VGG16:**
+
+<p align = "center">
+  < img src = "https://user-images.githubusercontent.com/51883796/82573343-d8606700-9baf-11ea-8e29-5aa878d664e4.PNG">
+</p>
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51883796/82573357-dbf3ee00-9baf-11ea-81c4-097d71c40cea.jpg">
+</p>
+
+* **Result of VGG19:**
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51883796/82574037-bfa48100-9bb0-11ea-911c-22b0759d4fa0.png">
+</p>
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51883796/82574047-c3380800-9bb0-11ea-8bd6-0ecd8c3097d8.jpg">
+</p>
+
+* **Result of ResNet50:**
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51883796/82574327-1c07a080-9bb1-11ea-9aba-5d8f79134f40.PNG">
+</p>
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51883796/82574345-2164eb00-9bb1-11ea-98bb-288b730ef41e.jpg">
+</p>
+
+
+  
