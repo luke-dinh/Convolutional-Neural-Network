@@ -92,13 +92,13 @@ ResNet Architecture
 Image path is optional. In this post, I choose the photo of a wall clock. This is the original photo:
 
 <p align = "center">
-  < img src = "https://user-images.githubusercontent.com/51883796/82572696-eeb9f300-9bae-11ea-8140-bb2e4953ff16.jpg">
+  <img src = "https://user-images.githubusercontent.com/51883796/82572696-eeb9f300-9bae-11ea-8140-bb2e4953ff16.jpg">
 </p>
 
 * **Result of VGG16:**
 
 <p align = "center">
-  < img src = "https://user-images.githubusercontent.com/51883796/82573343-d8606700-9baf-11ea-8e29-5aa878d664e4.PNG">
+  <img src = "https://user-images.githubusercontent.com/51883796/82573343-d8606700-9baf-11ea-8e29-5aa878d664e4.PNG">
 </p>
 
 <p align = "center">
