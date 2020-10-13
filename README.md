@@ -1,7 +1,7 @@
 # Convolutional-Neural-Network
 Summary of some CNN architectures and their applications
 
-* In this post, I will sumarize some main categories about CNN and some CNN-based networks. Particularly, I will construct and compare the results trained by VGG16, VGG19, ResNet50 networks for Object Regconition problem so the original architecture of the CNN will be summarized shortly.
+* In this post, I will sumarize some main categories about CNN and some CNN-based networks. Particularly, I will construct and compare the results trained by VGG16, VGG19, ResNet50 networks for Image Classification problem so the original architecture of the CNN will be summarized shortly.
 
 * **1. About Convolutional Neural Network**
 
@@ -85,7 +85,7 @@ ResNet Architecture
   <img src = "https://user-images.githubusercontent.com/51883796/82543181-59523b00-9b7d-11ea-84e3-2cf5abad3602.png">
 </p>
 
-* **4. Object Regconition problem using CNN**
+* **4. Image Classification problem using CNN**
 
 * Result
 
